@@ -1,0 +1,6 @@
+{
+  "name": "DroidToXcode",
+  "description": "Translates Android apps and Kotlin/Compose code into full Xcode Swift & SwiftUI projects, checks the Apple App Store for existing iOS equivalents, and exports ready-to-run Apple apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

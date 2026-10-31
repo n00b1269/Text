@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Left: Android Bot head (green / cyan) -->
+    <!-- Antennas -->
+    <path
+        android:strokeColor="#3DDC84"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M38,32 L33,26 M50,32 L55,26" />
+    
+    <!-- Android Head dome -->
+    <path
+        android:fillColor="#3DDC84"
+        android:pathData="M31,49 C31,39 37,33 44,33 C51,33 57,39 57,49 Z" />
+    
+    <!-- Android Eyes -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M38,42 a1.8,1.8 0 1,0 0.1,0 Z M50,42 a1.8,1.8 0 1,0 0.1,0 Z" />
+
+    <!-- Center Bridge / Transition Arrow -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M49,56 L59,56 L59,52 L67,59 L59,66 L59,62 L49,62 Z" />
+
+    <!-- Right: Xcode Hammer & Swift Crest (Orange / Indigo) -->
+    <!-- Xcode Hammer head -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M65,40 L75,32 L81,38 L77,44 Z" />
+    
+    <!-- Xcode Hammer handle -->
+    <path
+        android:strokeColor="#CBD5E1"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M70,41 L53,68" />
+
+    <!-- Swift flight curves / Apple bracket -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M32,60 L26,67 L32,74" />
+    <path
+        android:strokeColor="#FB923C"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M76,60 L82,67 L76,74" />
+
+    <!-- Code transformation slash -->
+    <path
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M56,76 L52,82" />
+</vector>
